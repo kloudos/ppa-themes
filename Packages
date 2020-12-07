@@ -1,0 +1,16 @@
+Package: kloudos-wallpapers
+Version: 0.0.1
+Architecture: all
+Maintainer: KloudOS <admin@kloudos.org>
+Installed-Size: 5690
+Filename: ./wallpapers/kloudos-wallpapers_0.0.1_all.deb
+Size: 4653824
+MD5sum: 124a36701a29e05b68691303d99728a2
+SHA1: c3c30d5620aa4eede4904f44dcdba11dcf3db30e
+SHA256: e5cfa5564b9b2860df151c7adffd74019a595bb6b9e0291992c29777a1ba997d
+Section: x11
+Priority: optional
+Homepage: https://github.com/kloudos/wallpapers
+Description: KloudOS Wallpapers
+ A collection of KloudOS Wallpapers.
+

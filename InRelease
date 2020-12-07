@@ -1,0 +1,44 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: i386 amd64 all
+Codename: cheetah
+Components: main
+Date: Mon, 07 Dec 2020 03:09:25 +0000
+Description: KloudOS 0.0.1 version
+Label: KloudOS
+Origin: kloudos
+Suite: alpha
+Version: 0.0.1
+MD5Sum:
+ 7e20c3d533177c7c0ec9bbf91d35eeb6              503 Packages
+ ec729f92b109ab02c42fd703d492b6b4              360 Packages.gz
+ 4a8da0263c107dc8ba14abbf57677299              197 Release
+SHA1:
+ a6fd1ec7058c3b5c8598864e3536802ca11b1b50              503 Packages
+ 53dc5bbadf7f4a665f384fa607f7add75de317de              360 Packages.gz
+ 7f10ee892a7eb6396957820f1724a2c2cebdc053              197 Release
+SHA256:
+ 02636916864b40a8e1799033469c0b5bd95dbe09f1698df2e16cee74d4ed736e              503 Packages
+ 57c8bae46c6a154957a272eb71631c4cec730de06bb6dd0db737df6e387757d7              360 Packages.gz
+ d786b1e7600adadb64f67870fcd7cd5fcdf7ea1181bcbbd34bda1c4dae5144a3              197 Release
+SHA512:
+ ade0617a47ded6f66eab5b3f48e93cede0e2b4f2acfab3aa972979c9a4a4b03e7665932754a0dc10b6e72105a3eeea8671fc0c479628a9816b464977c8b4d956              503 Packages
+ 7fb1fa5cddce143fe70a3f78bad7e57cb56b45106da69b5dd49a3126b75d2fbf45b36ce287ac2bbc54bfe244d2e633d50921e9f6d0cdb28fa77219bd657c296c              360 Packages.gz
+ d304ee644267fd24b2fe74f9def9e6344b0f457a1afed248b2ba19ca6a3345cdbbe1e8b19bd73d6f72713e4673072a925e49eb0e4e90e651378222003a9db91c              197 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEH6NL8PVYDrwKQLuPLjET3coiDsEFAl/NnOUACgkQLjET3coi
+DsG7XBAAxES8mFfUD6+fl5AU+bpHZWWIcHIRy7y46Cz+QC0Q9rLc4Zfb0bceaTJF
+JUhqUs2ZHG0Fvjm2VqaE1Rln5+zeDjFQfxnXYB+T5MTNTbu6oXRVbxAnOjOArurm
+6Ajjo+heI5Hp6yJlWJ7NRbl/DXsppYNQlPAL5T6O6fBHCwBGWKCcNewtMxypFo7q
+kNHCQaFJcGNzSYbzpb/R3/fBXIrKqflBGNoKpISfJ/K86r6rlWV+azNGq5ExSWlj
+q5zVJvVI1Ad9V/0bsWGxx2eNHrnzcrDCRSHot+snIMHPO8Z3Bugi7+ScrTtiP/hN
+EVGYnpBf1LU8D39cRp9WREd4ztF+zR/t3KrQoikcKmmjctyUIWS4N92NjcKHcxbH
+n3/dSRsvJZnqn9ct328weK+jzTnvBy2CE5ntCdfblnA/rB/TcGrtQjixCVUphToq
+eKC9pKZiGzbRDG9DVDWe+nlNc5tWp7OvQvnMrVy/mZQk+tA7QGk65w/fZ/gV1vZH
+I7DHWzPgkT2/xWIlMbBbFET0fklfNHdFo/erOHfhIi9DBtrNTNDyWCeG84h8q21d
+FX9B1pyoB+6zho78GP+fUerJHimJKJcAVG0Y8f0KifxGGnXsJZBAxIrhdCWoUg4c
+pvW//QmKiLkqkfMWJjwjDpY/I3B73zqMWkxGNLbMioTEQ3PrhH4=
+=rYav
+-----END PGP SIGNATURE-----
