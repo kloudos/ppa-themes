@@ -1,13 +1,76 @@
+Package: kloudos-cursor-theme
+Version: 0.0.1
+Architecture: all
+Maintainer: KloudOS <admin@kloudos.org>
+Installed-Size: 3329
+Filename: ./cursor-theme/kloudos-cursor-theme_0.0.1_all.deb
+Size: 256896
+MD5sum: fa6b2da0b5537c393ec4c79e6165203e
+SHA1: 6ec6f3fba091011cb1f2e24a1f3fc34add260526
+SHA256: da19e9c46deaa9aad933321e164eae7eab5f6cf11442e1eeaa791dfffb364ae2
+Section: gnome
+Priority: optional
+Homepage: https://github.com/kloudos/kloudos-cursor-theme
+Description: KloudOS Cursor.
+
+Package: kloudos-icon-theme
+Version: 0.0.1
+Architecture: all
+Maintainer: KloudOS <admin@kloudos.org>
+Installed-Size: 477216
+Depends: gnome-icon-theme
+Filename: ./icon-theme/kloudos-icon-theme_0.0.1_all.deb
+Size: 27417068
+MD5sum: 8bdc1e111236c020db0a21e61a85f48e
+SHA1: e774c39d0250034a6cc5fa4d6fa58345fbed7256
+SHA256: a1aa6c309662e1210d1c43cf7076b0e452152a914aaddf5b8eb2e2a1ec503927
+Section: gnome
+Priority: optional
+Homepage: https://github.com/kloudos/kloudos-icon-theme
+Description: KloudOS Icons
+
+Package: kloudos-icon-theme
+Version: 0.0.1
+Architecture: all
+Maintainer: KloudOS <admin@kloudos.org>
+Installed-Size: 477216
+Depends: gnome-icon-theme
+Filename: ./kloudos-icon-theme/kloudos-icon-theme_0.0.1_all.deb
+Size: 27414156
+MD5sum: e75f30d685f984794cd4f09a934756ab
+SHA1: f7ce3e162a00f6a49afb24793c0de1c1e2a438ae
+SHA256: 9b3d54f0a8d5378eabdda90984efa9319b3b48d467cde07b833f9ba94ea9989c
+Section: gnome
+Priority: optional
+Homepage: https://github.com/kloudos/kloudos-icon-theme
+Description: Pop Icons
+
+Package: kloudos-theme
+Version: 0.0.1
+Architecture: all
+Maintainer: KloudOS <admin@kloudos.org>
+Installed-Size: 38864
+Depends: gtk2-engines-murrine, gtk2-engines-pixbuf
+Filename: ./theme/kloudos-theme_0.0.1_all.deb
+Size: 600400
+MD5sum: d3f10e11f0c63d911e00fa07423145be
+SHA1: 907a080a31ec712eaea567559399997da36f0bd2
+SHA256: 6756b7810cbee06ca63cb812290ffca822ef8e9013ef9889b871bb673c4ec784
+Section: gnome
+Priority: optional
+Homepage: https://github.com/kloudos/kloudos-theme
+Description: KloudOS Icons
+
 Package: kloudos-wallpapers
 Version: 0.0.1
 Architecture: all
 Maintainer: KloudOS <admin@kloudos.org>
 Installed-Size: 5690
 Filename: ./wallpapers/kloudos-wallpapers_0.0.1_all.deb
-Size: 4653824
-MD5sum: 124a36701a29e05b68691303d99728a2
-SHA1: c3c30d5620aa4eede4904f44dcdba11dcf3db30e
-SHA256: e5cfa5564b9b2860df151c7adffd74019a595bb6b9e0291992c29777a1ba997d
+Size: 4654012
+MD5sum: e7a4101439bf003625218e036dfa914d
+SHA1: 557a99e38d67b784b53202dcff85e65d7f92226a
+SHA256: 32830f0b0d3baf6b3dd62ec338a7ff8a6921ac5c7a77ee900f722df50c3e6928
 Section: x11
 Priority: optional
 Homepage: https://github.com/kloudos/wallpapers
