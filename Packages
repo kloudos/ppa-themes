@@ -29,33 +29,17 @@ Priority: optional
 Homepage: https://github.com/kloudos/kloudos-icon-theme
 Description: KloudOS Icons
 
-Package: kloudos-icon-theme
-Version: 0.0.1
-Architecture: all
-Maintainer: KloudOS <admin@kloudos.org>
-Installed-Size: 477216
-Depends: gnome-icon-theme
-Filename: ./kloudos-icon-theme/kloudos-icon-theme_0.0.1_all.deb
-Size: 27414156
-MD5sum: e75f30d685f984794cd4f09a934756ab
-SHA1: f7ce3e162a00f6a49afb24793c0de1c1e2a438ae
-SHA256: 9b3d54f0a8d5378eabdda90984efa9319b3b48d467cde07b833f9ba94ea9989c
-Section: gnome
-Priority: optional
-Homepage: https://github.com/kloudos/kloudos-icon-theme
-Description: Pop Icons
-
 Package: kloudos-theme
 Version: 0.0.1
 Architecture: all
 Maintainer: KloudOS <admin@kloudos.org>
-Installed-Size: 38864
+Installed-Size: 36467
 Depends: gtk2-engines-murrine, gtk2-engines-pixbuf
 Filename: ./theme/kloudos-theme_0.0.1_all.deb
-Size: 600400
-MD5sum: d3f10e11f0c63d911e00fa07423145be
-SHA1: 907a080a31ec712eaea567559399997da36f0bd2
-SHA256: 6756b7810cbee06ca63cb812290ffca822ef8e9013ef9889b871bb673c4ec784
+Size: 578968
+MD5sum: 6c1e551d1a766e06d3b9178a4a84c6eb
+SHA1: e122212a2c0cdae7aa88f7baad6e1c9720e74d6a
+SHA256: d6ca2dbbe0cf3e8d6400e392403dbf678cc3a2574ad0e13ff042cb099fc34516
 Section: gnome
 Priority: optional
 Homepage: https://github.com/kloudos/kloudos-theme
