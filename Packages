@@ -33,13 +33,13 @@ Package: kloudos-theme
 Version: 0.0.1
 Architecture: all
 Maintainer: KloudOS <admin@kloudos.org>
-Installed-Size: 36467
+Installed-Size: 38867
 Depends: gtk2-engines-murrine, gtk2-engines-pixbuf
 Filename: ./theme/kloudos-theme_0.0.1_all.deb
-Size: 578968
-MD5sum: 6c1e551d1a766e06d3b9178a4a84c6eb
-SHA1: e122212a2c0cdae7aa88f7baad6e1c9720e74d6a
-SHA256: d6ca2dbbe0cf3e8d6400e392403dbf678cc3a2574ad0e13ff042cb099fc34516
+Size: 600892
+MD5sum: 25c82a7c047749ac7689a218ff7b44f5
+SHA1: 19c97f0daeacbdfe97ddd0255972c722f23d3ec5
+SHA256: a5c21552f4f5f4d7b1045f3ca750dd6e6b7bf37f6e1bf358f7558d56c143e165
 Section: gnome
 Priority: optional
 Homepage: https://github.com/kloudos/kloudos-theme
