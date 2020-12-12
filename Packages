@@ -36,10 +36,10 @@ Maintainer: KloudOS <admin@kloudos.org>
 Installed-Size: 38867
 Depends: gtk2-engines-murrine, gtk2-engines-pixbuf
 Filename: ./theme/kloudos-theme_0.0.1_all.deb
-Size: 600892
-MD5sum: 25c82a7c047749ac7689a218ff7b44f5
-SHA1: 19c97f0daeacbdfe97ddd0255972c722f23d3ec5
-SHA256: a5c21552f4f5f4d7b1045f3ca750dd6e6b7bf37f6e1bf358f7558d56c143e165
+Size: 600740
+MD5sum: 3c7758c5f5e66a0b6ffa2b393a52444c
+SHA1: dca7660081ca701371a72462981cb8fa63735cf5
+SHA256: 6bdcc73996f8e48da004e9defac08aeb1bc55de82430650b204c45d3d42fb922
 Section: gnome
 Priority: optional
 Homepage: https://github.com/kloudos/kloudos-theme
