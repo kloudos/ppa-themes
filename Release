@@ -1,7 +1,7 @@
 Architectures: i386 amd64 all
 Codename: cheetah
 Components: main
-Date: Fri, 25 Dec 2020 10:59:04 +0000
+Date: Sun, 27 Dec 2020 22:56:56 +0000
 Description: KloudOS 0.0.1 version
 Label: KloudOS
 Origin: kloudos
@@ -9,17 +9,17 @@ Suite: alpha
 Version: 0.0.1
 MD5Sum:
  b515f38f6d42c8462d746d0e07060716             1985 Packages
- 9cc6f294fafc058862dda7715763ace2              779 Packages.gz
- 82da40ddf49666196b9fbf063ad2e2e9              197 Release
+ 5693fb141ae8066c67b5dc8d797dafa7              779 Packages.gz
+ fc9a83776292827f4b27ef2cdc1d7ab2              197 Release
 SHA1:
  9c6493615944a2796b50b009422e88f2f6079008             1985 Packages
- 3bdcdd4a6c4d7fcdb3b93cf4208475757927c02b              779 Packages.gz
- bf287de670e56bf7c52a981b663cff4c6a59bf4f              197 Release
+ 5d8271c1cfd4e1696bc3b75eaff66b0ecec7c7c5              779 Packages.gz
+ 5f18cff6a9396accfaa09fe7caaa31f893e688ca              197 Release
 SHA256:
  c8c9f1bab19c4e191d0f80d77e3fda85484cb09cd6e271b436e1bc83a1d0eedb             1985 Packages
- 532e45da5ee571aa3e7874d6416198c5611d444015810b85726149538b92a26f              779 Packages.gz
- 12a9f16d3d37db06fbd45532488f55fe8f1ef80770904e5c76b7ac514ac88348              197 Release
+ f8eec9f4c55cd12ec54d0ab8ddbc9c5b391da6468d03c6024e3382bbf48ee5a7              779 Packages.gz
+ fd8c74da6ca3708e7d7828aca45291e8a40633e6081d019da2e1075a459980dd              197 Release
 SHA512:
  1779d0dd5277a0a4a88ed0b55ad7ca117c6ac82f0627e840ac16a23ba2e7df8a69f8402857b454158d7f8c41d99aac649b57277bfe86b5c34d3c0987a4a82950             1985 Packages
- c98cfd42a3195b648920f63f540b2bced491ef0737d677d23f8ebd4d55d33486e8982c459386b955d068d7a1a4b975c3480a9d5effee2ad097fe9b6ee8ccc49f              779 Packages.gz
- 03944438f4fa0bd34136fe7949e7b8b609af9b1866250bda56ec616c96bb9e2f17208720ef6e50a310c42ac045652406ecd95cf3d80b60cbf8b1feae81a29e89              197 Release
+ d3e8bb1bc14af3c1598f2be7281fda0119c04c9284aa62d682f5b4f6ab25e9dfa5d8d7bb4b64e24dd42a7a51d1f748dd2f4fa66287923f225628a351d8e532d6              779 Packages.gz
+ 3b32db024e7aec396c79a2327d6a94fc655ebe08d05acd38e36dd059e643d060af4edf717f4b26072ae366cf03aa17ba8d419dc3f594186c2a39cf9c1af2f4a9              197 Release
